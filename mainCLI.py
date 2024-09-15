@@ -46,9 +46,7 @@ class ProfileViewer:
         self.update_status(f"{Fore.RED}Status: Failed after {retry_attempts} attempts")
 
     def handle_pause(self):
-        for remaining in range(120, 0, -1):
-            self.update_status(f"{Fore.CYAN}Status: Paused For 2 Mins Time Left ({remaining // 60}:{remaining % 60:02d})")
-            time.sleep(1)
+        time.sleep(120)
         self.update_status(" " * 60)
 
     def update_status(self, status_message):
