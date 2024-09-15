@@ -36,23 +36,11 @@ This script is designed to boost the view count of a specific GitHub profile or 
 $ python github_view_booster.py
 GitHub View Booster By Germanized
 
- _______ _       _           _ 
-(_______|_)  _  | |         | |
- _   ___ _ _| |_| |__  _   _| |__
-| | (_  | (_   _)  _ \| | | |  _ \
-| |___) | | | |_| | | | |_| | |_) )
- \_____/|_|  \__)_| |_|____/|____/
-
- ______                      
-(____  \                    _ 
- ____)  ) ___   ___   ___ _| |_ _____  ____  
-|  __  ( / _ \ / _ \ /___|_   _) ___ |/ ___) 
-| |__)  ) |_| | |_| |___ | | |_| ____| |     
-|______/ \___/ \___/(___/   \__)_____)_|     
+# logo doesn't fit well in Read me's    
 
 Welcome to the Germanized GitHub Booster!
 
-Enter your GitHub views counter URL: https://github.com/yourprofile
+Enter your GitHub views counter URL: Your view count url ex: https://camo.githubusercontent.com/ce40e20b925339267ea4f98ec4b1a3aae2707ce2cf2c48901030c29a45fdb2ee/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6765726d616e697a6564266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 Enter the number of views you want: 500
 
 
